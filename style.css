@@ -1,0 +1,46 @@
+
+html { /*CSS referente ao html*/
+    background: #F5EEE6;
+    font-size: 20px;
+}
+h1 { /*CSS referente ao título*/
+    color: #141E46;
+    font-size: 3em;
+}
+h2.descricao { /*CSS referente a descricao do projeto*/
+    color: #638889;
+    font-size: 1rem 
+}
+li.caixa1{ /* CSS referente a primeira lista/filme*/
+    width: 330px;
+    height: 70px;
+    padding: 100px;
+    border: 3px solid gray;
+    margin: 0;
+    background-image: url("https://i.pinimg.com/736x/04/05/9b/04059b8856a7f953b0f37c442b297d50.jpg");
+}
+h1.filme{ /* CSS referente aos titulos dos filmes*/
+    font-size: 25px;
+}
+li.caixa2{ /* CSS referente a segunda lista/filme*/
+    width: 330px;
+    height: 70px;
+    padding: 100px;
+    border: 3px solid gray;
+    margin: 0;
+    background-image: url("https://http2.mlstatic.com/D_NQ_NP_600779-MLB48683265599_122021-O.webp");
+}
+li.caixa3{ /* CSS referente a terceira lista/filme*/
+    width: 330px;
+    height: 70px;
+    padding: 100px;
+    border: 3px solid gray;
+    margin: 0;
+    background-image: url("https://http2.mlstatic.com/D_NQ_NP_662754-MLA50617635724_072022-O.webp");
+}
+* { /* CSS referente a fonte dos textos*/
+    font-family: 'Courier New', Courier, monospace;
+}
+.center { /* CSS para centralizar textos*/
+    text-align: center;
+}
